@@ -1,0 +1,4 @@
+rootProject.name = 'kotlin_examples'
+rootProject.name = 'kotlin_examples'
+rootProject.buildFileName = 'build.gradle.kts'
+
