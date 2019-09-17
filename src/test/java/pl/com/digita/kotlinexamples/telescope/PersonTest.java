@@ -17,6 +17,6 @@ public class PersonTest
         new KPerson("John", "Smith");
         new KPerson("John", "Smith", 42);
         new KPerson("John", "Smith", 42, 2);
-        new KPerson("John", "Smith", null, 2);
+        KPerson kPerson = new KPerson("John", "Smith", null, 2);
     }
 }
